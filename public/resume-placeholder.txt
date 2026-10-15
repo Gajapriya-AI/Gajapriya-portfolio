@@ -1,0 +1,6 @@
+Placeholder resume file — replace this with the actual resume PDF.
+
+To use your real resume:
+1. Save your resume as "resume.pdf"
+2. Place it in the "public" folder of this project, replacing this file
+3. The "Download Resume" button will automatically download it
