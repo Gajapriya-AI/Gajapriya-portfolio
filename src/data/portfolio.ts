@@ -12,7 +12,7 @@ export const personal = {
   email: 'gajap785@gmail.com',
   phone: '8940886347',
   resumePath: '/resume.pdf',
-  linkedinUrl: '',
+  linkedinUrl: 'https://www.linkedin.com/in/gaja-priya-65b5a8434',
   githubUrl: 'https://github.com/Gajapriya-AI',
 };
 
