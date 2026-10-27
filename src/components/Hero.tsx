@@ -50,8 +50,8 @@ export default function Hero() {
             View Projects
           </button>
           <a
-            href={personal.resumePath}
-            download
+           href="/resume.pdf"
+           download="resume.pdf"
             className="inline-flex items-center justify-center gap-2 px-6 py-3 bg-navy-800 text-cyan-300 font-semibold rounded-xl border border-cyan-400/30 hover:border-cyan-400/60 hover:bg-navy-700 transition-all active:scale-95"
           >
             <Download className="w-5 h-5" />
